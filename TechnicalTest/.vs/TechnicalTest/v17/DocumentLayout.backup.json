@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\controllers\\itemsconstroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\controllers\\itemsconstroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\transaksiitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\transaksiitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\dto\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\models\\dto\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\fullstack\\fullstack\\technicaltest\\technicaltest\\migrations\\20240923140020_bismillah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\migrations\\20240923140020_bismillah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:55:35.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemsConstroller.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "RelativeToolTip": "TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:00:34.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TechnicalTest\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:21:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Program.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Program.cs",
+              "RelativeToolTip": "TechnicalTest\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:47:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Services\\TransactionServices.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Services\\TransactionServices.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Services\\TransactionServices.cs",
+              "RelativeToolTip": "TechnicalTest\\Services\\TransactionServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:24:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Services\\JwtService.cs",
+              "RelativeToolTip": "TechnicalTest\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:14:12.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\Item.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:18:35.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransaksiItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\TransaksiItem.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\TransaksiItem.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\TransaksiItem.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\TransaksiItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:47:50.986Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TechnicalTest\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:17:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:13:38.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:12:15.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TechnicalTest\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:32:58.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\appsettings.json",
+              "RelativeDocumentMoniker": "TechnicalTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\appsettings.json",
+              "RelativeToolTip": "TechnicalTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T00:07:17.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\User.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:14:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtTokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:13:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240923140020_bismillah.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Migrations\\20240923140020_bismillah.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Migrations\\20240923140020_bismillah.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\Fullstack\\Fullstack\\TechnicalTest\\TechnicalTest\\Migrations\\20240923140020_bismillah.cs",
+              "RelativeToolTip": "TechnicalTest\\Migrations\\20240923140020_bismillah.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:00:20.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
